@@ -16,7 +16,7 @@ namespace Leetcode._6_ZigZagConversion
 
         public static string Convert_1(string s, int numRows)
         {
-            if (s.Length == 1 || numRows == 1)
+            if (s.Length == 1 || numRows == 1 || s.Length < numRows)
             {
                 return s;
             }
@@ -53,7 +53,7 @@ namespace Leetcode._6_ZigZagConversion
 
         public static string Convert_2(string s, int numRows)
         {
-            if (s.Length == 1 || numRows == 1)
+            if (s.Length == 1 || numRows == 1 || s.Length < numRows)
             {
                 return s;
             }
@@ -92,7 +92,7 @@ namespace Leetcode._6_ZigZagConversion
 
             foreach(var list in array)
             {
-                convertedString += list != null ? new string(list.ToArray()) : "";
+                convertedString += new string(list.ToArray());
             }
 
             return convertedString;
