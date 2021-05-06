@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.2_AddTwoNumbers", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.3_LongestSubstring", "Leetcode.3_LongestSubstring\Leetcode.3_LongestSubstring.csproj", "{4FF98C6A-11B6-42A9-8B71-DF13C7A76261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.5_LongestPalindrom", "Leetcode.5_LongestPalindrom\Leetcode.5_LongestPalindrom.csproj", "{F268E5A5-B805-4CA6-B0ED-1C5F03BEFABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.5_LongestPalindrom", "Leetcode.5_LongestPalindrom\Leetcode.5_LongestPalindrom.csproj", "{F268E5A5-B805-4CA6-B0ED-1C5F03BEFABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.7_ReverseInteger", "Leetcode.7_ReverseInteger\Leetcode.7_ReverseInteger.csproj", "{9EF93009-D19D-4E87-AA5D-FD52E968EA14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F268E5A5-B805-4CA6-B0ED-1C5F03BEFABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F268E5A5-B805-4CA6-B0ED-1C5F03BEFABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F268E5A5-B805-4CA6-B0ED-1C5F03BEFABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF93009-D19D-4E87-AA5D-FD52E968EA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF93009-D19D-4E87-AA5D-FD52E968EA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF93009-D19D-4E87-AA5D-FD52E968EA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF93009-D19D-4E87-AA5D-FD52E968EA14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
