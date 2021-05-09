@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.11_ContainerWithMo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.12_IntegerToRoman", "Leetcode.12_IntegerToRoman\Leetcode.12_IntegerToRoman.csproj", "{A328F78A-8749-42E6-BE02-7EE8D95FD402}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.14_LongestCommonPrefix", "Leetcode.14_LongestCommonPrefix\Leetcode.14_LongestCommonPrefix.csproj", "{0E9DA71E-2C76-4C09-8AC5-904109CCDC13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.14_LongestCommonPrefix", "Leetcode.14_LongestCommonPrefix\Leetcode.14_LongestCommonPrefix.csproj", "{0E9DA71E-2C76-4C09-8AC5-904109CCDC13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.15_3Sum", "Leetcode.15_3Sum\Leetcode.15_3Sum.csproj", "{E9723950-B2EC-4E20-BD05-C2E387CD0C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.167_TwoSumII", "Leetcode.167_TwoSumII\Leetcode.167_TwoSumII.csproj", "{0233C8D0-023B-4144-97FC-F80864112E38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{0E9DA71E-2C76-4C09-8AC5-904109CCDC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E9DA71E-2C76-4C09-8AC5-904109CCDC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E9DA71E-2C76-4C09-8AC5-904109CCDC13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9723950-B2EC-4E20-BD05-C2E387CD0C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9723950-B2EC-4E20-BD05-C2E387CD0C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9723950-B2EC-4E20-BD05-C2E387CD0C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9723950-B2EC-4E20-BD05-C2E387CD0C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0233C8D0-023B-4144-97FC-F80864112E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0233C8D0-023B-4144-97FC-F80864112E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0233C8D0-023B-4144-97FC-F80864112E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0233C8D0-023B-4144-97FC-F80864112E38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
