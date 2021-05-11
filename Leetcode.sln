@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.20_ValidParenthese
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.21_MergeTwoSortedLists", "Leetcode.21_MergeTwoSortedLists\Leetcode.21_MergeTwoSortedLists.csproj", "{FC922686-6AB7-4716-A03A-CF6B6BB9D861}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.26_RemoveDuplicates", "Leetcode.26_RemoveDuplicates\Leetcode.26_RemoveDuplicates.csproj", "{562F5B69-06B8-4C27-9F22-14B745CD21B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{FC922686-6AB7-4716-A03A-CF6B6BB9D861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC922686-6AB7-4716-A03A-CF6B6BB9D861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC922686-6AB7-4716-A03A-CF6B6BB9D861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562F5B69-06B8-4C27-9F22-14B745CD21B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562F5B69-06B8-4C27-9F22-14B745CD21B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562F5B69-06B8-4C27-9F22-14B745CD21B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562F5B69-06B8-4C27-9F22-14B745CD21B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
