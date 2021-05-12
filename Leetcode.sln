@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.27_RemoveElement",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.28_ImplementStrStr", "Leetcode.28_ImplementStrStr\Leetcode.28_ImplementStrStr.csproj", "{1A9A55BA-B0F9-4B91-8F18-C5B7FD2B7F89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.29_DivideTwoIntegers", "Leetcode.29_DivideTwoIntegers\Leetcode.29_DivideTwoIntegers.csproj", "{318582B1-5D0A-4DB2-9798-D57AA4B90BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{1A9A55BA-B0F9-4B91-8F18-C5B7FD2B7F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A9A55BA-B0F9-4B91-8F18-C5B7FD2B7F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A9A55BA-B0F9-4B91-8F18-C5B7FD2B7F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318582B1-5D0A-4DB2-9798-D57AA4B90BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318582B1-5D0A-4DB2-9798-D57AA4B90BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318582B1-5D0A-4DB2-9798-D57AA4B90BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318582B1-5D0A-4DB2-9798-D57AA4B90BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
