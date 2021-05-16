@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.29_DivideTwoIntege
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.35_SearchInsertPosition", "Leetcode.35_SearchInsertPosition\Leetcode.35_SearchInsertPosition.csproj", "{C9F79607-7D64-4CAF-AB76-B54CF8C68802}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.53_MaximumSubarray", "Leetcode.53_MaximumSubarray\Leetcode.53_MaximumSubarray.csproj", "{C3360DE5-CA88-4D3B-9638-317970C43941}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{C9F79607-7D64-4CAF-AB76-B54CF8C68802}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9F79607-7D64-4CAF-AB76-B54CF8C68802}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9F79607-7D64-4CAF-AB76-B54CF8C68802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3360DE5-CA88-4D3B-9638-317970C43941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3360DE5-CA88-4D3B-9638-317970C43941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3360DE5-CA88-4D3B-9638-317970C43941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3360DE5-CA88-4D3B-9638-317970C43941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
