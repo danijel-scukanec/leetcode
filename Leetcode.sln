@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.35_SearchInsertPos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.53_MaximumSubarray", "Leetcode.53_MaximumSubarray\Leetcode.53_MaximumSubarray.csproj", "{C3360DE5-CA88-4D3B-9638-317970C43941}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.58_LengthOfLastWord", "Leetcode.58_LengthOfLastWord\Leetcode.58_LengthOfLastWord.csproj", "{26EF2419-B12E-45C1-A52D-2DA7C8FCBD50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{C3360DE5-CA88-4D3B-9638-317970C43941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3360DE5-CA88-4D3B-9638-317970C43941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3360DE5-CA88-4D3B-9638-317970C43941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EF2419-B12E-45C1-A52D-2DA7C8FCBD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EF2419-B12E-45C1-A52D-2DA7C8FCBD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EF2419-B12E-45C1-A52D-2DA7C8FCBD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EF2419-B12E-45C1-A52D-2DA7C8FCBD50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
