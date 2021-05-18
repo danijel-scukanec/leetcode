@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.88_MergeSortedArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.67_AddBinary", "Leetcode.67_AddBinary\Leetcode.67_AddBinary.csproj", "{CE556A8B-96F4-4599-9B78-7854FB99584C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.69_MySqrt", "Leetcode.69_MySqrt\Leetcode.69_MySqrt.csproj", "{9D8C3E25-518A-415E-B894-7B396AC13147}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{CE556A8B-96F4-4599-9B78-7854FB99584C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE556A8B-96F4-4599-9B78-7854FB99584C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE556A8B-96F4-4599-9B78-7854FB99584C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8C3E25-518A-415E-B894-7B396AC13147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8C3E25-518A-415E-B894-7B396AC13147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8C3E25-518A-415E-B894-7B396AC13147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8C3E25-518A-415E-B894-7B396AC13147}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
