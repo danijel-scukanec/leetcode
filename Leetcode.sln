@@ -59,6 +59,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.70_ClimbingStairs"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.88_MergeSortedArray", "Leetcode.88_MergeSortedArray\Leetcode.88_MergeSortedArray.csproj", "{B9E43A86-1C80-427C-90B9-DD9E196FFADA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.67_AddBinary", "Leetcode.67_AddBinary\Leetcode.67_AddBinary.csproj", "{CE556A8B-96F4-4599-9B78-7854FB99584C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{B9E43A86-1C80-427C-90B9-DD9E196FFADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9E43A86-1C80-427C-90B9-DD9E196FFADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9E43A86-1C80-427C-90B9-DD9E196FFADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE556A8B-96F4-4599-9B78-7854FB99584C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE556A8B-96F4-4599-9B78-7854FB99584C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE556A8B-96F4-4599-9B78-7854FB99584C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE556A8B-96F4-4599-9B78-7854FB99584C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
