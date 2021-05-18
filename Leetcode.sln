@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.58_LengthOfLastWor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.66_PlusOne", "Leetcode.66_PlusOne\Leetcode.66_PlusOne.csproj", "{E82B660C-9DBB-4912-B69C-05157D8EA649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.70_ClimbingStairs", "Leetcode.70_ClimbingStairs\Leetcode.70_ClimbingStairs.csproj", "{469BF288-914A-4621-A293-124C5FEDC504}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.70_ClimbingStairs", "Leetcode.70_ClimbingStairs\Leetcode.70_ClimbingStairs.csproj", "{469BF288-914A-4621-A293-124C5FEDC504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.88_MergeSortedArray", "Leetcode.88_MergeSortedArray\Leetcode.88_MergeSortedArray.csproj", "{B9E43A86-1C80-427C-90B9-DD9E196FFADA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{469BF288-914A-4621-A293-124C5FEDC504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{469BF288-914A-4621-A293-124C5FEDC504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{469BF288-914A-4621-A293-124C5FEDC504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E43A86-1C80-427C-90B9-DD9E196FFADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E43A86-1C80-427C-90B9-DD9E196FFADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E43A86-1C80-427C-90B9-DD9E196FFADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E43A86-1C80-427C-90B9-DD9E196FFADA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
