@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.69_MySqrt", "Leetc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.83_RemoveDuplicates", "Leetcode.83_RemoveDuplicates\Leetcode.83_RemoveDuplicates.csproj", "{37209676-6A2B-42ED-BE43-6F2016DBE79E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.56_MergeIntervals", "Leetcode.56_MergeIntervals\Leetcode.56_MergeIntervals.csproj", "{01A13700-43F7-4067-A077-09A38E7C602B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{37209676-6A2B-42ED-BE43-6F2016DBE79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37209676-6A2B-42ED-BE43-6F2016DBE79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37209676-6A2B-42ED-BE43-6F2016DBE79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A13700-43F7-4067-A077-09A38E7C602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A13700-43F7-4067-A077-09A38E7C602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A13700-43F7-4067-A077-09A38E7C602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A13700-43F7-4067-A077-09A38E7C602B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
