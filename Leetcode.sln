@@ -57,15 +57,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.66_PlusOne", "Leet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.70_ClimbingStairs", "Leetcode.70_ClimbingStairs\Leetcode.70_ClimbingStairs.csproj", "{469BF288-914A-4621-A293-124C5FEDC504}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.88_MergeSortedArray", "Leetcode.88_MergeSortedArray\Leetcode.88_MergeSortedArray.csproj", "{B9E43A86-1C80-427C-90B9-DD9E196FFADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.88_MergeSortedArray", "Leetcode.88_MergeSortedArray\Leetcode.88_MergeSortedArray.csproj", "{B9E43A86-1C80-427C-90B9-DD9E196FFADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.67_AddBinary", "Leetcode.67_AddBinary\Leetcode.67_AddBinary.csproj", "{CE556A8B-96F4-4599-9B78-7854FB99584C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.67_AddBinary", "Leetcode.67_AddBinary\Leetcode.67_AddBinary.csproj", "{CE556A8B-96F4-4599-9B78-7854FB99584C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.69_MySqrt", "Leetcode.69_MySqrt\Leetcode.69_MySqrt.csproj", "{9D8C3E25-518A-415E-B894-7B396AC13147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.69_MySqrt", "Leetcode.69_MySqrt\Leetcode.69_MySqrt.csproj", "{9D8C3E25-518A-415E-B894-7B396AC13147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.83_RemoveDuplicates", "Leetcode.83_RemoveDuplicates\Leetcode.83_RemoveDuplicates.csproj", "{37209676-6A2B-42ED-BE43-6F2016DBE79E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.83_RemoveDuplicates", "Leetcode.83_RemoveDuplicates\Leetcode.83_RemoveDuplicates.csproj", "{37209676-6A2B-42ED-BE43-6F2016DBE79E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.56_MergeIntervals", "Leetcode.56_MergeIntervals\Leetcode.56_MergeIntervals.csproj", "{01A13700-43F7-4067-A077-09A38E7C602B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.56_MergeIntervals", "Leetcode.56_MergeIntervals\Leetcode.56_MergeIntervals.csproj", "{01A13700-43F7-4067-A077-09A38E7C602B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.31_NextPermutation", "Leetcode.31_NextPermutation\Leetcode.31_NextPermutation.csproj", "{EE9B0418-8299-4614-9509-9EFC7D8CB128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.204_CountPrimes", "Leetcode.204_CountPrimes\Leetcode.204_CountPrimes.csproj", "{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +205,14 @@ Global
 		{01A13700-43F7-4067-A077-09A38E7C602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01A13700-43F7-4067-A077-09A38E7C602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01A13700-43F7-4067-A077-09A38E7C602B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9B0418-8299-4614-9509-9EFC7D8CB128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9B0418-8299-4614-9509-9EFC7D8CB128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9B0418-8299-4614-9509-9EFC7D8CB128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9B0418-8299-4614-9509-9EFC7D8CB128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
