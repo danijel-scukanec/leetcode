@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.83_RemoveDuplicate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.56_MergeIntervals", "Leetcode.56_MergeIntervals\Leetcode.56_MergeIntervals.csproj", "{01A13700-43F7-4067-A077-09A38E7C602B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.31_NextPermutation", "Leetcode.31_NextPermutation\Leetcode.31_NextPermutation.csproj", "{EE9B0418-8299-4614-9509-9EFC7D8CB128}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.31_NextPermutation", "Leetcode.31_NextPermutation\Leetcode.31_NextPermutation.csproj", "{EE9B0418-8299-4614-9509-9EFC7D8CB128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.204_CountPrimes", "Leetcode.204_CountPrimes\Leetcode.204_CountPrimes.csproj", "{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.204_CountPrimes", "Leetcode.204_CountPrimes\Leetcode.204_CountPrimes.csproj", "{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.121_BestTime", "Leetcode.121_BestTime\Leetcode.121_BestTime.csproj", "{D3982F80-1269-4174-8618-D6A3D539A88F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3982F80-1269-4174-8618-D6A3D539A88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3982F80-1269-4174-8618-D6A3D539A88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3982F80-1269-4174-8618-D6A3D539A88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3982F80-1269-4174-8618-D6A3D539A88F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
