@@ -71,9 +71,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.31_NextPermutation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.204_CountPrimes", "Leetcode.204_CountPrimes\Leetcode.204_CountPrimes.csproj", "{D391097D-C5F0-4B89-B7CF-70DAF0BF673D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.121_BestTime", "Leetcode.121_BestTime\Leetcode.121_BestTime.csproj", "{D3982F80-1269-4174-8618-D6A3D539A88F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.121_BestTime", "Leetcode.121_BestTime\Leetcode.121_BestTime.csproj", "{D3982F80-1269-4174-8618-D6A3D539A88F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.953_Alien", "Leetcode.953_Alien\Leetcode.953_Alien.csproj", "{C81F5FE0-D90D-4C4A-B978-FD35A66DFB64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.953_Alien", "Leetcode.953_Alien\Leetcode.953_Alien.csproj", "{C81F5FE0-D90D-4C4A-B978-FD35A66DFB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.415_AddStrings", "Leetcode.415_AddStrings\Leetcode.415_AddStrings.csproj", "{DA8F887E-BDC7-48E4-B820-155D848A1EC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{C81F5FE0-D90D-4C4A-B978-FD35A66DFB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C81F5FE0-D90D-4C4A-B978-FD35A66DFB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C81F5FE0-D90D-4C4A-B978-FD35A66DFB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8F887E-BDC7-48E4-B820-155D848A1EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8F887E-BDC7-48E4-B820-155D848A1EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8F887E-BDC7-48E4-B820-155D848A1EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8F887E-BDC7-48E4-B820-155D848A1EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
